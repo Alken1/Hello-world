@@ -38,7 +38,7 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: test1
+all: test
 
 # Tool invocations
 test1: $(OBJS) $(USER_OBJS)
